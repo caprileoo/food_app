@@ -1,3 +1,3 @@
 # food_app
 
-A new Flutter project.
+My demo food app in Flutter.
